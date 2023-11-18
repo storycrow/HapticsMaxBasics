@@ -2,6 +2,7 @@
 #
 ### These are a collection of Max patches/instruments that I've developed for simple spatial rendering using haptic devices, such as voice-coil actuators. 
 ### I am in the process of cleaning these patches up to make them more user-friendly soon.
+### In addition to the patches, I have also included set of VR Instructions for setting up HTC Vive to send gestural control data to your patches to adjust the parameters in realtime. 
 ### 
 #
 ## SoundBasics1
