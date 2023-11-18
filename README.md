@@ -36,7 +36,7 @@
 ## 2ch_ApparentMotion_Switchboard_Simple
 ##
 #### This patch should be used in Presentation Mode (button to toggle into this mode at bottom of patcher).
-### This is a demo intended to be used with an armband with opposing voice-coil actuators on either side of the forearm. 
-### It demos egocentric virtual and perceptual rendering approaches.
-### It features three kinds of apparent motion: distance-based amplitude panning, a tactile-kinaesthetic illusion from frequency beating, and a kinaesthetic illusion from phase changes. 
+#### This is a demo intended to be used with an armband with opposing voice-coil actuators on either side of the forearm. 
+#### It demos egocentric virtual and perceptual rendering approaches.
+#### It features three kinds of apparent motion: distance-based amplitude panning, a tactile-kinaesthetic illusion from frequency beating, and a kinaesthetic illusion from phase changes. 
 ##
